@@ -92,26 +92,25 @@ benefits {
 }
 
 /*consolidation*/
-benefit-lead,
-benefit-brand,
-benefit-cost {
+.benefit-lead,
+.benefit-brand,
+.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /*consolidation*/
-benefit-lead h3,
-benefit-brand h3,
-benefit-cost h3 {
-    margin-bottom: 20px;
-    margin-top: 20px; /*messed something up with the margin spacing, so added a little extra buffer to the top*/
+.benefit-lead h3,
+.benefit-brand h3,
+.benefit-cost h3 {
+    margin-bottom: 10px;
     text-align: center;
 }   
 
 /*consolidation*/
-benefit-lead img,
-benefit-brand img,
-benefit-cost img {
+.benefit-lead img,
+.benefit-brand img,
+.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
