@@ -7,3 +7,4 @@ The Horiseon refactor project is a set of code in HTML and CSS depicting a websi
 ![Horiseon - Search Optimization](https://user-images.githubusercontent.com/110688090/184237779-de63c237-d275-4937-9410-ee137310a5ed.png)
 
 ## Link
+https://sydwig.github.io/horiseon-refactor-project/
